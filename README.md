@@ -2,7 +2,7 @@
 
 ### Olá! me chamo Nícolas.
 <hr>
-🙆‍♂️ Atualmente trabalho com desenvolvimento FullStack
+🙆‍♂️ Atualmente trabalho com desenvolvimento Front-end
 <hr>
 👨‍💻 Sistemas de informação(8/8)
 <hr>
