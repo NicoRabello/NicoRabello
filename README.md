@@ -1,9 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bada55&height=120&section=header"/>
-## Olá! me chamo Nícolas, mais conhecido como Nico
 
-- 🙆‍♂️ Atualmente trabalho com desenvolvimento FullStack
-- 👨‍💻 Sistemas de informação(8/8)
-- 📫 Contato: Nos links abaixo.
+### Olá! me chamo Nícolas.
+<hr>
+🙆‍♂️ Atualmente trabalho com desenvolvimento FullStack
+<hr>
+👨‍💻 Sistemas de informação(8/8)
+<hr>
+📫 Contato: Nos links abaixo.
 - Ele/dele
 - A7x
 <hr>
