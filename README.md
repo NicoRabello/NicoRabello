@@ -3,6 +3,8 @@
 - Atualmente trabalho com desenvolvimento FullStack
 - 👨‍💻 Sistemas de informação(8/8)
 - 📫 Contato: Nos links abaixo.
+- Ele/dele
+- A7x
 
 
   ##
