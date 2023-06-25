@@ -1,6 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bada55&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Ola!+meu+nome+é+Nícolas+Rabello;Tenho+23+anos+;Sou+Brasileiro;Graduando+emSistemas+de+informação;Seja+Bem+Vindo!;Contato+nos+links+abaixo:%29)](https://git.io/typing-svg)
-
 ### Olá! me chamo Nícolas, mais conhecido como Nico
 
 - 🙆‍♂️ Atualmente trabalho com desenvolvimento FullStack
