@@ -1,18 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bada55&height=120&section=header"/>
+<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=bada55&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Nícolas+Rabello;Tenho+23+anos;Sou+natural+do+Brasil;Graduando+em+Sistemas+de+Informação;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)">
 
-### Olá! me chamo Nícolas.
-<hr>
-🙆‍♂️ Atualmente trabalho com desenvolvimento Front-end
-<hr>
-👨‍💻 Sistemas de informação(8/8)
-<hr>
-📫 Contato: Nos links abaixo.
 <hr>
 <div align="center">
   <a href="https://github.com/NicoRabello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicoRabello&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoRabello&layout=compact&langs_count=16&theme=merko"/>
-</div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NicoRabello&theme=merko&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=500)" alt="NicoRabello" /></p>
+  </div>
 <hr>
 <div Align="center"> 
   <a href="https://www.instagram.com/nico_c935/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank""></a>
