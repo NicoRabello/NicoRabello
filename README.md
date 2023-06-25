@@ -7,8 +7,6 @@
 👨‍💻 Sistemas de informação(8/8)
 <hr>
 📫 Contato: Nos links abaixo.
-- Ele/dele
-- A7x
 <hr>
 <div align="center">
   <a href="https://github.com/NicoRabello">
