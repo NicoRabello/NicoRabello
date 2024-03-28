@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bada55&height=120&section=header"/>
-<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=bada55&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Nícolas+Rabello;Tenho+24+anos;Sou+Brasileiro;Natural+do+Rio+Grande+do+Sul;Graduando+em+Sistemas+de+Informação;Seja+bem+vindo!+:%29">
+<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=bada55&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Nícolas+Rabello;Tenho+24+anos;Sou+Brasileiro;Natural+do+Rio+Grande+do+Sul;Graduado+em+Sistemas+de+Informação;Seja+bem+vindo!+:%29">
 
 <hr>
 <div align="center">
